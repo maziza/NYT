@@ -8,7 +8,7 @@ var apiKey = "74c86f1c937b422eb4d6cda12de80cd7"
 
 
 $.ajax({
-  url: url,
+  url: queryURL+apiKey,
   method: 'GET',
 }).done(function(result) {
   console.log(result);
