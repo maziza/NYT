@@ -1,0 +1,25 @@
+
+
+
+
+.heading{
+    background-color: midnightblue;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    text-align: center;
+    
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 6px;
+}
+
+.panel-body{
+    background-color: white;
+}
+
+.panel-heading{
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
