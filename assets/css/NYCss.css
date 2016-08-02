@@ -29,9 +29,6 @@
 input {
     width: 95%;
     margin-left: 10px;
-    
-       
-    
 }
 
 .panel{
@@ -47,4 +44,13 @@ margin: 10px 0px 0px -5px;
 .records{
     width: 95%;
     margin-left: 10px;
+}
+
+.glyphicon{
+    padding-left: 10px;
+    padding-right: 2px;
+}
+
+.panel-title{
+    padding-bottom: 10px;
 }
